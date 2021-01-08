@@ -1,0 +1,12 @@
+{
+    "name": "silence/annotation",
+    "authors": [
+        {
+            "name": "silence",
+            "email": "silence_hgt@163.com"
+        }
+    ],
+    "require": {
+        "doctrine/annotations": "^1.11"
+    }
+}

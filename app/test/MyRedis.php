@@ -4,7 +4,8 @@ namespace App\test;
 
 use App\annotations\Value;
 
-class MyRider{
+class MyRedis
+{
     /**
      * @Value(name="url")
      */
